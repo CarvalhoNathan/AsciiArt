@@ -1,0 +1,12 @@
+﻿Console.WriteLine("        _-_.");
+Console.WriteLine("     _-',^. `-_.");
+Console.WriteLine(" ._-' ,'   `.   `-_ ");
+Console.WriteLine("!`-_._________`-':::");
+Console.WriteLine("!   /\\        /\\::::");
+Console.WriteLine(";  /  \\      /..\\:::");
+Console.WriteLine("! /    \\    /....\\::");
+Console.WriteLine("!/      \\  /......\\:");
+Console.WriteLine(";--.___. \\/_.__.--;; ");
+Console.WriteLine(" '-_    `:!;;;;;;;'");
+Console.WriteLine("    `-_, :!;;;''");
+Console.WriteLine("        `-!'        "); 
